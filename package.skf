@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-array"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Утилиты для массивов: chunk, unique, flatten."
+    репозиторий = "github.com/skytech-alt/skyforge-array"
+    точка_входа = "code/main.skf"
+    теги = ["array", "utils", "list"]
+    лицензия = "MIT"
+    зависимости = []
+}
